@@ -21,4 +21,4 @@
   
 #### Esquema Diagrama de Flujo:
   
-  ![](Proyecto_02 Laboratoria - Validacion-Tarjeta-Credito.jpg)
+  ![Esquema Diagrama de Flujo](https://github.com/Dany-Nok/proyecto-02-validador-tarjeta-credito/blob/master/Proyecto_02_Laboratoria-Validacion-Tarjeta-Credito.jpg)
